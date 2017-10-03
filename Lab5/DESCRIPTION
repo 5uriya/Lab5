@@ -1,0 +1,11 @@
+Package: Lab5
+Type: Package
+Title: This package establishes a connection with a web API [Google Maps]
+Version: 1.0
+Date: 2017-10-01
+Author: Balaji Ramkumar and Amish Satish
+Maintainer: <balaji512ramkumar@gmail.com>
+Description: This package is linked with google maps web API. It can provide the distance between to places and the time required to travel from one place to another.
+License: GPL-2
+RoxygenNote: 6.0.1.9000
+Depends: R (>= 2.1.0)
